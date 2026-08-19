@@ -1,2 +1,2 @@
 # Android
-This is some projects in Android Studio made by me 
+An expense tracker made in Android Studio 
